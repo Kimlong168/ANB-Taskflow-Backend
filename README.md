@@ -4,7 +4,7 @@ A scalable REST API built with Node.js and Express, providing comprehensive task
 
 [![View Frontend Repo](https://img.shields.io/badge/View-Frontend_Repo-blue?style=for-the-badge)](https://github.com/Kimlong168/ANB-Taskflow-Client)
 
-[![Watch Demo](https://img.shields.io/badge/▶️%20Watch%20Demo-YouTube-red?logo=youtube)](https://youtu.be/b0YGkyuZeWY?si=KQbl3kX2MA6xTP-v)
+[![Watch Demo](https://youtu.be/Mx0VF5Bk5Mg?si=1hh1r0oVZXzqFHKY)
 
 ## ✨ API Features
 
