@@ -100,3 +100,13 @@ Server will start on `http://localhost:3000`
 ```
 Development: http://localhost:3000/api
 ```
+
+## 👨‍💻 Author
+
+**Chann Kimlong**
+- GitHub: [@Kimlong168](https://github.com/Kimlong168)
+- Portfolio: [Portfolio Website](https://kimlongchann.dev)
+
+---
+
+**Project Completion**: Monday, June 23rd, 2024 (On Schedule)
