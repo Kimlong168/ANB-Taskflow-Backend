@@ -17,11 +17,16 @@ A scalable REST API built with Node.js and Express, providing comprehensive task
 
 ### 📋 Task Management
 - **Full CRUD Operations**: Create, Read, Update, Delete tasks
-
-### 🗂️ Column Management
+- **Move task**: move task from one to one column
+  
+### 🗂️ Column Ma
+nagement
 - **Dynamic Columns**: Create custom workflow stages
 - **Column Ordering**: Reorder columns for optimal workflow
 - **Column Customization**: Rename and configure columns
+
+### 📋 Board Management
+- **Full CRUD Operations**: Create, Read, Update, Delete boards
 
 ## 🛠️ Tech Stack
 
