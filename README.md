@@ -64,6 +64,7 @@ Create a `.env` file in the root directory:
 # Server Configuration
 NODE_ENV=development
 PORT=3000
+CLIENT_SIDE_URL=http://localhost:5173
 
 # Database
 MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/todo-board
