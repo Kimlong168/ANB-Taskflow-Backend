@@ -66,7 +66,7 @@ NODE_ENV=development
 PORT=3000
 
 # Database
-# MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/todo-board
+MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/todo-board
 
 # JWT Configuration
 JWT_SECRET=your_super_secret_jwt_key_here
