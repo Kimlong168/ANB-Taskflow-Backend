@@ -1,6 +1,6 @@
 # Taskflow To-Do Board - Backend API
 
-A scalable REST API built with Node.js and Express, providing comprehensive task management functionality with MongoDB integration, authentication, and real-time capabilities.
+A scalable REST API built with Node.js and Express, providing comprehensive task management functionality with MongoDB integration and authentication.
 
 [![View Frontend Repo](https://img.shields.io/badge/View-Frontend_Repo-blue?style=for-the-badge)](https://github.com/Kimlong168/ANB-Taskflow-Client)
 
