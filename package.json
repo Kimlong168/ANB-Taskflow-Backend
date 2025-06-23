@@ -1,12 +1,11 @@
 {
-  "name": "lify-mini-tracking-system-api",
+  "name": "ans-taskflow-backend",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js",
-    "start": "node app.js",
-    "heroku-postbuild": "bash postbuild.bash"
+    "start": "node app.js"
   },
   "_moduleAliases": {
     "@": "src"
