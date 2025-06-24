@@ -85,7 +85,7 @@ CLOUDINARY_API_SECRET = xxxxx
 
 ```
 
-### 5. Development Server
+### 4. Development Server
 
 ```bash
 npm run dev
