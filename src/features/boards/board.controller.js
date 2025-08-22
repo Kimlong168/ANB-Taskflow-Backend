@@ -15,7 +15,7 @@ exports.getOneBoard = async (req, res, next) => {
         populate: {
           path: "tasks",
           model: "Task",
-          options: { sort: { priority: -1 } },
+          // options: { sort: { priority: -1 } },
         },
       });
 
